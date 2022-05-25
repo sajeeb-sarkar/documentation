@@ -59,22 +59,56 @@
 #### *Interpeter:
 <dt> GC(garbeg collector), Run time and Byte based langauge use Interpreter to tanslete code. Interpreter worke till Intermediate level.  </dt>
 
+
+### GC - Garbeg Collector
+<dt>Every runtime based langauge have a garbage collector which immute data that we not used now..</dt>
+
 ## Source Code to Machine Code
 
 #### where we write code that is called source code.
 
+|Source code|
+|---------|
+|Laxical parser|
+|Laxical analiser| 
+|Optimizer|  
+|Intermediat code|
+|Assemly code |
+|Linker |
+|Executable |
 
+#### laxical program
+<dt>Whene we write code in source code that is just a text for computer. Laxical program is the first stepe for our source code to convert machine code.It is separet code key word like [div,p,span,h1,.class.id,function,let,var]</dt>
 
+#### laxical analiser
+<dt>If laxical program work is making a tree of code then laxical analiser work is analise that to see is every code in right place.</dt>
 
+#### Optimizer
+<dt>Optimizer work is cutout the aditional brance of the code of tree fro deliver the data code faster. </dt>
 
+#### Intermediat code
+<dt>Here code make as byte code, if work on runtime based programme like[ js,java,pythone] then they are now transfer the code to server side supported langauge.</dt>
 
+#### Assemly code
+<dt>Whene code cross intermediate lavel as byte code thene Assemly work is rewrite the code for machine.</dt>
 
+#### Linker
+<dt>[.dll]
+[.a]
+[.so]
+.dll - is windows or library
+     .a - static code
+     .so - dinamic code
+</dt>
 
+#### Executeable
 
-
-
-
-
-
+## javascript Runtime
+|Browser|Node.Js|
+|----|----|
+|like crome|Sever requirment|
+|a) HTML Parser|a) File I/O|
+|b) style readerar|b) Resies manegment|
+|c) JS engine (v8)| 
 
 https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
