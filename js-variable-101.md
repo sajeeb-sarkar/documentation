@@ -78,6 +78,31 @@ console.log(typeof(sky))
 
 
 
+**Note:**
+
+## Escape chapter
+
+We use escape charecter whene `identifire` appearse in the data. Exapmle: <br>
+`"hello world i'm "feeling" good."`
+
+here " denotes staring the string of a string but whene " apperse inside the string JS engine parse it as error to metigate this problem we use \"string/charecter\" here backslash \ is called escape charecter <br>
+`"hello i'm \"sajeeb\" sarker"`
+
+`Output :  hello i'm "sajeeb" sarkar`
+
+
+
+**Note:**
+
+`` backtick is a new feature is es6. We also caled it template string. We can insert variable value right inide it by:
+`let X = "good";`
+
+`let Y = 'i'm feeling ${X}'` `output: i'm feeling good`
+
+
+
+
+
 
 
 
