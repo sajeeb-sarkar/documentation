@@ -14,4 +14,5 @@ the above operators can be used with diffrent data types such as number,string e
 
 **Example:** "hi".length > "hello".length make sence because .length gives the length of the string is number or numaric value. so we can compare.
 
-# Sta
+# Stalement 
+
