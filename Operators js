@@ -1,0 +1,17 @@
+3 Comparision operators
+`=== // strict equal`
+`>  // grether then`
+`< // less then`
+`>= // grethar then or equal to`
+<= // lessthen or equal to`
+`&& // logical and`
+`|| // logical or`
+
+
+the above operators can be used with diffrent data types such as number,string etc. But some of the operator such as >,>,<=,>= only works with spacial data types.
+
+**Example:** "hi" > "hello" is not a valid comparison why? because JS engine can not compare which string is bigger. It does not make sence.
+
+**Example:** "hi".length > "hello".length make sence because .length gives the length of the string is number or numaric value. so we can compare.
+
+# Sta
