@@ -14,7 +14,7 @@
 ## switch 
 
 ```js
-<keyword> <expresion/value> {           switch 10 {      
+<keyword> <expresion/value> {           switch (10) {      
   <keyword> <value>:                       case 5:    
     //code block                            console.log("Not 10");
   <keyword>                                break                         
