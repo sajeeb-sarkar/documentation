@@ -62,7 +62,7 @@ so, let means mutable variable and const means immutable variable.
 - let sky = "blue";
 - let age = 20;
 
-1. the variable **age** become a numaric variable. **why?** because right now sky holds string data --->  "blue".
+1. the variable **sky** become a string variable. **why?** because right now sky holds string data --->  "blue".
 
 2. the variable **age** become a numaric variable. **why?** because age holds/stor a value of number which is numaric.
 
