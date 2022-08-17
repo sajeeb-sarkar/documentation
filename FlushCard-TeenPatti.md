@@ -1,3 +1,21 @@
+# Cards suit name
+Dimond,Club,Heart and Spade
+
+- A - ace - 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 8
+- 9
+- 10
+- J - jack
+- Q - queen
+- K - king
+
+
 # Rules of teen patti
 
 **1. Best hand:** Trail/seet/trio.<br> Three similer cards ***regardless of color or suit*** ``(For instance A-A-A or 9-9-9 of a dimond,heart and spade or any suit of cards)``<br>
